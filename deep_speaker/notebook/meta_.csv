@@ -1,0 +1,34 @@
+id,age,gender,accent,region,feminine_level
+p225,23,F,English,Southern  England,0.19255689658797587
+p226,22,M,English,Surrey,-0.2674407946700967
+p227,38,M,English,Cumbria,-0.31819376042559877
+p228,22,F,English,Southern  England,0.26520877990763597
+p229,23,F,English,Southern  England,0.2176275185583771
+p230,22,F,English,Stockton,0.24298292695059506
+p231,23,F,English,Southern  England,0.21574839936424983
+p232,23,M,English,Southern  England,-0.26293571117054815
+p233,23,F,English,Staffordshire,0.3238426562089529
+p236,23,F,English,Manchester,0.2581155468369689
+p239,22,F,English,SW  England,0.2763507143552122
+p240,21,F,English,Southern  England,0.27203575083394343
+p243,22,M,English,London,-0.29148572342621
+p244,22,F,English,Manchester,0.2745554201177728
+p250,22,F,English,SE  England,0.26543048433052485
+p254,21,M,English,Surrey,-0.30087747036298323
+p256,24,M,English,Birmingham,-0.22698565874120954
+p257,24,F,English,Southern  England,0.24395705849491908
+p258,22,M,English,Southern  England,-0.34088532928671866
+p259,23,M,English,Nottingham,-0.27626223567753255
+p267,23,F,English,Yorkshire,0.25758273880764837
+p268,23,F,English,Southern  England,0.2993798809490291
+p269,20,F,English,Newcastle,0.2448702348989828
+p270,21,M,English,Yorkshire,-0.30335727408435736
+p273,23,M,English,Suffolk,-0.17474619709694894
+p274,22,M,English,Essex,-0.236506525761698
+p276,24,F,English,Oxford,0.30458358657814855
+p277,23,F,English,NE  England,0.2766619694102402
+p278,22,M,English,Cheshire,-0.27692685325351013
+p279,23,M,English,Leicester,-0.24552947753510146
+p282,23,F,English,Newcastle,0.21377917737350532
+p286,23,M,English,Newcastle,-0.18782159059932524
+p287,23,M,English,York,-0.26311262364870996
